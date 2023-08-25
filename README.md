@@ -13,5 +13,7 @@ Something like this: https://www.youtube.com/watch?v=d_2Jl7ehPPk
 
 You can also download editable [cd_sleeve_A4.odg](https://github.com/dbojan/cdsleeve/raw/main/cd_sleeve_A4.odg) for Libre Office.
 
+Version 5.0
+
 
 
