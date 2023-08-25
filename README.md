@@ -1,2 +1,2 @@
 # cdsleeve
-CD DVD Sleeve made of paper
+CD DVD Sleeve made of paper, A4 currently
