@@ -5,7 +5,7 @@ Right click [here](https://github.com/dbojan/cdsleeve/raw/main/cd_sleeve_A4.pdf)
 
 Open it in pdf viewer, like as 'pdf-xchange viewer', or 'foxit pdf viewer'. You can type on pdf, by clicking on TT icon in pdf viewer.
 
-Print and fold along lines. Put folded parts inside. Note: printed paper part is facing **down** while folding. 
+Print and fold along lines. Put folded parts inside. Note: printed side of the paper is facing **down** while folding. 
 
 Remeber **not to touch** the recorded side of cd-dvd.
 
